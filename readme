@@ -1,0 +1,13 @@
+1. USB webcam required to take photos of other humans
+2. Open .pde in processing 2
+3. Change file path to desired Laser computer location in convert.sh 
+4. Run Processing sketch, 'a' and 's' to change black/white balance
+5. 'q' to export to export 2 color gif
+6. Open laser software (we are using Laser Cut 5.3 on a 150 watt c02 laser);
+7. Laser settings: Engrave speed 800 power 30 
+
+notes:
+- keeyp an eye out the output to ensure correct file path in cover.sh 
+- laser settings will vary heavily based on bread and laser
+- Pre-toasting toast before putting it in laser for minimal groseness 
+- jam and pb&j are essentail to the operation 
